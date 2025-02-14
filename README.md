@@ -1,6 +1,6 @@
 # winsearch
 
-A plugin to search and jump to an open pane.
+A neovim plugin to search and jump to an open pane.
 
 `winsearch` will search across all open panes, including panes that are in other
 tabs, and will bring the selected pane into focus - without moving any of your
