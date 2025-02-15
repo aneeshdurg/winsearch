@@ -17,7 +17,7 @@ With [lazy.nvim](https://github.com/folke/lazy.nvimj):
 Once installed, you should be able to run:
 
 ```
-:lua require("telescope").extensions.winsearch.winsearch()
+:Telescope winsearch
 ```
 
 It should bring up a window like the following:
